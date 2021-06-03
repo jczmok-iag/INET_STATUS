@@ -169,10 +169,10 @@ params:
     - name: USV
       category: RBS55
 
-    - name: Mailfilter Cluter
+    - name: Mailfilter Cluster
       description: Internet AG Mailfilter
       category: Uncategorized
-    - name: Mailfilter 3 Standalone
+    - name: Mailfilter Standalone
       description: Internet AG Mailfilter
       category: Uncategorized
 
