@@ -160,10 +160,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
+    - name: Stromversorgung
+      category: WHP26
+    - name: Stromversorgung
+      category: RBS55
     - name: API
       description: The guts of the application.
       category: Uncategorized
