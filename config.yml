@@ -145,10 +145,10 @@ params:
   categories:
     - name: WHP26
       description: Datacenter Wiesenhuettenplatz 
-      closed: true
+      closed: false
     - name: RBS55
       description: Datacenter Rebstoecker Str
-      closed: true
+      closed: false
     - name: Uncategorized
       untitled: true
 
@@ -162,13 +162,18 @@ params:
   systems:
     - name: Stromversorgung
       category: WHP26
+    - name: USV
+      category: WHP26
     - name: Stromversorgung
       category: RBS55
-    - name: API
-      description: The guts of the application.
+    - name: USV
+      category: RBS55
+
+    - name: Mailfilter Cluter
+      description: Internet AG Mailfilter
       category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+    - name: Mailfilter 3 Standalone
+      description: Internet AG Mailfilter
       category: Uncategorized
 
   # What date format to use?
