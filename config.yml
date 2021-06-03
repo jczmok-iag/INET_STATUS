@@ -143,10 +143,12 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: WHP26
+      description: Datacenter Wiesenhuettenplatz 
       closed: true
-    - name: Empty Category
+    - name: RBS55
+      description: Datacenter Rebstoecker Str
+      closed: true
     - name: Uncategorized
       untitled: true
 
