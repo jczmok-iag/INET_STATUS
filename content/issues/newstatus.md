@@ -1,6 +1,6 @@
 ---
 title: Integration of status.iag.eu
-date: 2020-06-01 18:00:00
+date: 2021-06-01 18:00:00
 informational: true
 section: issue
 ---
